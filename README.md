@@ -39,7 +39,7 @@ Please have node.js installed onto your machine
 
 <a href = 'https://drive.google.com/file/d/1Hr22JwAPlDSFbkOCSqCT-KBFc32aRSkg/view'> Demo Video </a>
 
-
+![](./assets/Screenshot%202023-04-02%20214924.png)
 
 ## License
 
